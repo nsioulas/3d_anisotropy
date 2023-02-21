@@ -1,6 +1,7 @@
 # 3d_anisotropy
 
 
-This project is still ongoing and the code has several issues. Please contact me before impementing it to your anaslysis.
+This project is still ongoing and was uploaded as part of NASA'a FINESST proposal.
 
+Before using please contact me at:
 email: nsioulas@g.ucla.edu
